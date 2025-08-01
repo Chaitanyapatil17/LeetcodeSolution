@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Chaitanyapatil17/LeetcodeSolution/tree/master/0010-regular-expression-matching) |
+| [0118-pascals-triangle](https://github.com/Chaitanyapatil17/LeetcodeSolution/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chaitanyapatil17/LeetcodeSolution/tree/master/0014-longest-common-prefix) |
+| [0118-pascals-triangle](https://github.com/Chaitanyapatil17/LeetcodeSolution/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Chaitanyapatil17/LeetcodeSolution/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
